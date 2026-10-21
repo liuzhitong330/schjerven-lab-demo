@@ -1,0 +1,9 @@
+id,column,label,model,condition,replicate,origin,induction,time_hours,paired,url
+GSM9313472,MXP5_GFP_rep1,MXP5 GFP 1,MXP5,GFP,1,GSE310958,1 microgram/mL doxycycline,24,False,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM9313472
+GSM9313473,MXP5_GFP_rep2,MXP5 GFP 2,MXP5,GFP,2,GSE310958,1 microgram/mL doxycycline,24,False,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM9313473
+GSM9313474,MXP5_IK1_rep1,MXP5 IK1 1,MXP5,IK1,1,GSE310958,1 microgram/mL doxycycline,24,False,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM9313474
+GSM9313475,MXP5_IK1_rep2,MXP5 IK1 2,MXP5,IK1,2,GSE310958,1 microgram/mL doxycycline,24,False,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM9313475
+GSM2410132,GSM2410132_PDX2_GFP_rep1,PDX2 GFP 1,PDX2,GFP,1,"GSE90659, reprocessed in GSE310958",1 microgram/mL doxycycline,24,False,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2410132
+GSM2410133,GSM2410133_PDX2_GFP_rep2,PDX2 GFP 2,PDX2,GFP,2,"GSE90659, reprocessed in GSE310958",1 microgram/mL doxycycline,24,False,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2410133
+GSM2410140,GSM2410140_PDX2_IK_rep1,PDX2 IK1 1,PDX2,IK1,1,"GSE90659, reprocessed in GSE310958",1 microgram/mL doxycycline,24,False,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2410140
+GSM2410141,GSM2410141_PDX2_IK_rep2,PDX2 IK1 2,PDX2,IK1,2,"GSE90659, reprocessed in GSE310958",1 microgram/mL doxycycline,24,False,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2410141
