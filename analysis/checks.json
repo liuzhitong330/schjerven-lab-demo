@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "tests": [
+    "Pearson known linear and reversed fixture",
+    "Pearson NumPy corrcoef equivalence",
+    "Pearson independent scalar equivalence on every sample pair",
+    "Correlation symmetry and diagonal",
+    "Size-factor geometric means are one within model",
+    "Known proportional-count size-factor fixture",
+    "Independent scalar median-ratio calculation on full data",
+    "Zero ratios produce missing values",
+    "Exact ratio sanity check",
+    "Strict shortlist subset of mean-only shortlist",
+    "Increasing effect floor never increases shortlist"
+  ],
+  "max_abs_error_numpy_raw": 3.3306690738754696e-16,
+  "max_abs_error_numpy_log_cpm": 3.3306690738754696e-16,
+  "max_abs_error_scalar_raw": 9.988676552552533e-13,
+  "max_abs_error_scalar_size_factors": 2.220446049250313e-16,
+  "R_or_full_ssvQC_executed": false
+}
